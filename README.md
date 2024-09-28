@@ -1,6 +1,6 @@
-# Mukul Gehlot | Flutter Developer ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
+# Mukul Gehlot | Flutter Developer 
 
-Hey there! I bake sweet stuff for **Android**, **iOS**, **Web**, and **Desktop** using **Flutter**. 🚀
+Hey there! I bake sweet stuff for **Android**, **iOS**, **Web**, and rest(nope, not for your Washing Machine or Hair Dryer) using **Flutter**. 🚀
 
 I love:
 - Exploring tech and messing with custom ROMs.
@@ -26,4 +26,8 @@ Working on a Flutter package that helps devs with localization and translations 
 
 ---
 
-[![GitHub](https://img.shields.io/github/followers/imukulgehlot?label=Follow&style=social)](https://github.com/imukulgehlot)
+![Banner](https://pm1.aminoapps.com/7618/54bafef803b77896aff4e63382fd85d9c26d6d9ar1-334-400v2_00.jpg)
+
+Totally not a secret agent... just coding and minding my own business.
+
+
